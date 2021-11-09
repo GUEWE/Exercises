@@ -1,0 +1,2 @@
+# Exercises
+personal exercises
